@@ -11,7 +11,7 @@ def weechat_init
                    "Justin Anderson",
                    "1.0",
                    "GPL3",
-                   "GNTP Notify: Growl notifications using ruby-gntp.",
+                   "GNTP Notify: Growl notifications using ruby_gntp.",
                    "",
                    "")
 

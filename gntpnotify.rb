@@ -1,5 +1,5 @@
 # Author: Justin Anderson
-# Homepage:
+# Homepage: https://github.com/tinifni/gntp-notify
 # Version: 1.0
 
 require 'rubygems'
@@ -43,6 +43,7 @@ def show_notification(name, title, message)
     :name   => name,
     :title  => title,
     :text   => message,
+    :icon   => "https://github.com/tinifni/gntp-notify/raw/master/weechat.png",
     :sticky => true
   })
 end

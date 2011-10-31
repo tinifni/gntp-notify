@@ -1,4 +1,5 @@
 # Author: Justin Anderson
+# Email: jandersonis@gmail.com
 # Homepage: https://github.com/tinifni/gntp-notify
 # Version: 1.0
 

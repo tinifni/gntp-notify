@@ -3,4 +3,4 @@
 - gem install ruby_gntp
 
 # Installation:
-- Copy gntpnotify.rb to ~/.weechat/ruby/autoload
+- Copy gntp_notify.rb to ~/.weechat/ruby/autoload
